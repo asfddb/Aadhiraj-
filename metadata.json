@@ -1,0 +1,6 @@
+{
+  "name": "KV No. 1 Port Blair - Infrastructure Report",
+  "description": "An interactive public report on the infrastructure quality, outdated facilities, and maintenance status of Kendriya Vidyalaya No. 1, Port Blair.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
